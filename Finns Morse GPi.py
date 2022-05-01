@@ -70,11 +70,3 @@ lbl = tk.Label(frame, text = "")
 lbl.pack()
 
 frame.mainloop()
-
-
-
-
-
-
-
-
